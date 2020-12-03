@@ -1,0 +1,29 @@
+
+## Quantitative 
+Quantitative Data takes on numeric values that allow us to perform mathematical operations and also data which can be statistically analyzed.
+Examples: Height, Weight, Time, Price, Temperature, etc.
+
+There are two types of Quantitative data, namely:
+1. Discrete
+2. Continuous
+
+Discrete data is information that can only take certain values. Discrete data only takes on countable values.
+Example: counting The number of people on the street, the number of students in a class We can't have half a student!, the results of rolling 2 dice Only has the values 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12.
+
+Continuous data can be split into smaller and smaller units, and still a smaller unit exists.
+Example: The age of the person - we can measure the units of the age in years, months, days, hours, seconds, but there are still smaller units that could be associated with the age.
+
+## Categorical 
+ Categorical are used to label a group or set of items or Categorical data describes categories or groups.
+ Example: A car brands like Mercedes, BMW and Audi – they show different categories. Answering yes or no for questions Do you own a car? Yes and no would be the two groups of answers that can be obtained.
+ 
+ There are two types of categorical data, namely:
+ 1. Nominal Data.
+ 2. Ordinal Data.
+ 
+ Nominal data do not have an order or ranking. Nominal data is a type of data that is used to label the variables without providing any numerical value.
+ Example:  Nominal data include country, gender, race, hair color etc. of a group of people. Gender is a categorical variable having two categories (male and female)
+ 
+ Ordinal data take on a ranked ordering (like a ranked interaction on a scale from Very Poor to Very Good).
+ Example: Ordinal data include having a position in class as “First” or “Second”. Temperature as a variable with three orderly categories (low, medium and high).
+ 
